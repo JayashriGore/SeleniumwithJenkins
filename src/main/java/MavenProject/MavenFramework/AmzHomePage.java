@@ -70,6 +70,7 @@ public class AmzHomePage
     		 driver.switchTo().window(childid);
     }
     
+    
     public void signoutaccount()
     {
     signout.click();
